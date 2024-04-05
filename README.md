@@ -9,8 +9,12 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://tryhackme.com/p/danel.schwartz)](danelschwartz.wordpress.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=danelschwartz.danelschwartz)
 
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Danel-Schwartz/count.svg" />
+</p>
 ### 📫 Looking to Collaborate?
+
 
 If you're interested in cybersecurity, threat detection, or any related fields, feel free to reach out! I'm always excited to collaborate on projects or chat about the latest in security tech.
 
