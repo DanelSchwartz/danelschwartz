@@ -9,10 +9,11 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://tryhackme.com/p/danel.schwartz)](danelschwartz.wordpress.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=danelschwartz.danelschwartz)
 
-<p align="center"> 
+<p align="left"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Danel-Schwartz/count.svg" />
 </p>
+
 ### 📫 Looking to Collaborate?
 
 
