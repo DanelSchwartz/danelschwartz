@@ -4,7 +4,7 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: danel](https://img.shields.io/badge/-danel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danelschwartz/)](https://www.linkedin.com/in/danelschwartz/)
+[![Linkedin: Danel Schwartz](https://img.shields.io/badge/-danel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danelschwartz/)](https://www.linkedin.com/in/danelschwartz/)
 ![GitHub followers](https://img.shields.io/github/followers/danelschwartz?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://tryhackme.com/p/danel.schwartz)](danelschwartz.wordpress.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=danelschwartz.danelschwartz)
