@@ -22,7 +22,7 @@ If you're interested in cybersecurity, threat detection, or any related fields, 
 ```javascript
 const danel = {
     pronouns: "He" | "Him",
-    code: ["Python", "Bash", "C++", "JavaScript"],
+    code: ["Python", "Bash"],
     askMeAbout: ["cyber security", "tech", "SOC analysis", "OSINT"],
     technologies: {
         security: ["Threat Detection", "Security Management"],
