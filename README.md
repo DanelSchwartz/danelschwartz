@@ -1,6 +1,6 @@
 # Danel Schwartz
 
-**Cybersecurity  | Former SOC T2 & InfoSec Analyst  **
+**Cybersecurity  | Former SOC T2 & InfoSec Analyst**
 
 Information Security Analyst with hands-on experience in threat detection, incident response, and security operations. Previously worked at Migdal Group and Citadel, specializing in SIEM, EDR/XDR, DLP and OSINT.
 
